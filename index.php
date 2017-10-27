@@ -38,10 +38,10 @@ addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); func
 <input type="text" name="usuariolg" required autocomplete="off">
 </div> 
 <div class="field-wrap">
-<label>Contraseña<span class="req">*</span> </label>
+<label>ContraseÃ±a<span class="req">*</span> </label>
 <input type="password" name="passlg" required autocomplete="off">
 </div> 
-<p class="forgot"><a href="notfound.php">¿..Olvido su contraseña..?</a></p>
+<p class="forgot"><a href="notfound.php">Â¿..Olvido su contraseÃ±a..?</a></p>
 <input type="submit" name="button" value="...Iniciar Sesion..." class="botonlg"> 
 </form> 
 </div>
@@ -51,7 +51,7 @@ addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); func
 <!-- copyright -->
 <footer class="w3copyright-agile">
 <div class="w3copyright-agile">
-<p>© 2017 Serverus Corporation. Todos los derechos reservados | Diseñado por: <a href="http://w3layouts.com/" target="_blank">W3layouts | JFEG </a></p>
+<p>Â© 2017 Serverus Corporation. Todos los derechos reservados | DiseÃ±ado por: <a href="http://w3layouts.com/" target="_blank">W3layouts | JFEG </a></p>
 </div>
 </footer>
 <script src="js/jquery-3.2.1.min.js"></script>
@@ -121,5 +121,7 @@ console.log("Complete Always");
 });
 });
 </script>
+ <!--- Daniel R Sanchez M -->
+ <!--- John F EstupiÃ±an G -->
 </body>
 </html>
